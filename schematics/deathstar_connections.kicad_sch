@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "caf843f6-cedd-49ed-8311-0d43bc5fc865")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 43.18 26.67)
+		(size 88.9 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0342d56b-243f-4321-a6ee-91a69ed3c699")
+		(property "Sheetname" "interconnect_pcb"
+			(at 43.18 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deathstar_interconnect_pcb.kicad_sch"
+			(at 43.18 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deathstar_connections"
+				(path "/caf843f6-cedd-49ed-8311-0d43bc5fc865"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 83.82)
+		(size 81.28 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bcca0cf8-c906-4e1a-ba5c-fb5e0f5b396a")
+		(property "Sheetname" "interface_and_power_and_motors"
+			(at 102.87 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "interface_power_motors.kicad_sch"
+			(at 102.87 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deathstar_connections"
+				(path "/caf843f6-cedd-49ed-8311-0d43bc5fc865"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 26.67)
+		(size 80.01 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e33adfc3-8286-4647-9092-98037fb4b050")
+		(property "Sheetname" "laser submodule"
+			(at 149.86 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deathstar_laserSubmodule.kicad_sch"
+			(at 149.86 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deathstar_connections"
+				(path "/caf843f6-cedd-49ed-8311-0d43bc5fc865"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
