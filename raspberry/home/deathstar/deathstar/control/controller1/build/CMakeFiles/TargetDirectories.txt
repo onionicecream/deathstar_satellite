@@ -1,0 +1,4 @@
+/home/deathstar/deathstar/control/bep-control4/build/CMakeFiles/sensor_ctrl.dir
+/home/deathstar/deathstar/control/bep-control4/build/CMakeFiles/main.dir
+/home/deathstar/deathstar/control/bep-control4/build/CMakeFiles/edit_cache.dir
+/home/deathstar/deathstar/control/bep-control4/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsensor_ctrl.a CMakeFiles/sensor_ctrl.dir/constellation_sensor.cpp.o CMakeFiles/sensor_ctrl.dir/controller.cpp.o
+/usr/bin/ranlib libsensor_ctrl.a
